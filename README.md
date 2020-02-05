@@ -9,3 +9,7 @@ Simple 3d CSS transformation generator using svelte js
 ## To build
 
 1. npm run build
+
+## Live Demo
+
+you can view a live demo [here](https://younessboualam.github.io/3d-css-transformation-using-Svelte/public/)
