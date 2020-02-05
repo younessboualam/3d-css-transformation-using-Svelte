@@ -1,2 +1,2 @@
 # 3D css transformation generator
-Simple 3d CSS transformation using svelte js
+Simple 3d CSS transformation generator using svelte js
